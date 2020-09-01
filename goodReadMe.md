@@ -1,8 +1,8 @@
 
-  # Weather dashboard
+  # Weather Dashboard
 ---
 
-  ![Badge](https://img.shields.io/badge/license-MIT-Green)
+  ![Badge](https://img.shields.io/badge/license-Apache-BrightGreen)
 
   ## Description
   This project is a weather dashboard application that will display the temperature, wind speed, humidity and UV Index of any city that you will enter in the search box. This app will run in the browser and feature dynamically updated HTML and CSS powered by a JavaScript code. The application will also display the weather forecast for next 5 days. The application will also save the search history and you can simply click on the last searched city to check it's current weather. This was something very new and a toughest one for me and I have put so much effort in learning, understanding and executing the concepts of javascript, API and API Keys. I have used the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities.
@@ -11,8 +11,7 @@
 
  ![Homework Repository Screenshot](./assets/repo.png)
 
-
-  [The Link to My Github Repository](https://github.com/kaurshalpreet/homework6-Weather-Dashboard)
+  [The Link to My Github Repository](https://github.com/kaurshalpreet/homework6-Weather-Dashboard))
 ---
 
   ## Table of Contents
@@ -29,13 +28,13 @@
 3. also be able to search your last searched city to the local storage and simply clicking on 
 4. it will display it's current weather and other information.
 
+![Getting Started!](./assets/gettingStarted.png)
+
 
 ---
 
   ## Usage
-  [The Weather Dashboard page can be accessed via github page here](https://kaurshalpreet.github.io/homework6-Weather-Dashboard/)
-
-When you open the page, you will get a search input box to put the name of the city and click on the search icon. when you click on it, it will display the current and future conditions for that city and that city is added to the search history.
+  When you open the page, you will get a search input box to put the name of the city and click on the search icon. when you click on it, it will display the current and future conditions for that city and that city is added to the search history.
 
 ![Start Page](./assets/startPage.gif)
 
@@ -77,19 +76,19 @@ When you open or reload the weather dashboard, then you are presented with the l
 ---
 
   ## License
-  #### This application is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+  #### This application is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
   
 ---
 
   ## Collaborators
-  Please reach me via Github
+  Please connect with me via Github
 
-  #### You can reach me via my Github account at [Github](https://github.com/kaurshalpreetnode)
+  #### You can reach me via my Github account at [Github](https://github.com/kaurshalpreet)
   
 ---
 
   ## Test
-  There are no specific test for this application. Please test as per your needs and provide feedback
+  There are no specific tests for this application. Please test as per your needs and provide feedback
 
 
 ---
