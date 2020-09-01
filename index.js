@@ -23,11 +23,6 @@ inquirer
       message: "Enter the link for your Github repository of the Project.",
       name: "link"
     },
-    // {
-    //   type: "input",
-    //   message: "Enter your Table of Contents (Optional)",
-    //   name: "contents"
-    // },
     {
       type: "editor",
       message: "What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.",
