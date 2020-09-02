@@ -1,5 +1,4 @@
 # good-README-generator
----
 
   ![Badge](https://img.shields.io/badge/license-MIT-Green)
 
@@ -10,24 +9,30 @@
   You can also find a walkthrough video that demonstrates the functionality of the application [here](https://drive.google.com/file/d/1TXyizn7U8UYdwsFN-C9R23ucC8Tcek_M/view?usp=sharing)
 
   [The Link to My Github Repository](https://github.com/kaurshalpreet/good-README-generator)
+
+   ![Repository Screenshot](./assets/repoReadMeGenerator.png)
+
 ---
 
   ## Table of Contents
-  1. [Installation](Installation)
-  1. [Usage](Usage)
-  1. [Credits](Credits)
-  1. [License](License)
+  1. [Installation](#Installation)
+  1. [Usage](#Usage)
+  1. [Credits](#Credits)
+  1. [License](#License)
 ---
 
   ## Installation
-  ![Repository Screenshot](./assets/repoReadMeGenerator.png)
-
-  There is no installation for this application. You need to open index.js in integrated terminal and type node index.js and prompts to enter your content will appear. 
-  You can simply enter your text  in MarkDown Language. 
+ 
+  npm init <br>
+  npm install inquirer <br> 
 
 ---
 
   ## Usage
+
+  You need to open index.js in integrated terminal and type "node index.js" and prompts to enter your content will appear. 
+  You can simply enter your text in MarkDown format. <br>
+
   WHEN I am prompted for information about my application repository <br>
   THEN a quality, professional README.md is generated with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions <br>
   WHEN I enter my project title <br>
@@ -45,8 +50,9 @@ THEN I am taken to the corresponding section of the README <br>
 
 ---
 
-  ## Credits
-  * UC Davis BootCamp - Instructors and TAs
+## Credits
+
+* UC Davis BootCamp - Instructors and TAs
 * https://www.w3schools.com/
 * https://www.youtube.com/
 * https://www.google.com/
@@ -75,6 +81,6 @@ THEN I am taken to the corresponding section of the README <br>
 
   ## Questions
   #### You can reach me via my [Github](https://github.com/kaurshalpreet) account. 
-  #### You can reach me with additional questions at my [email](kaurshalpreet@gmail.com) address.  
+  #### Email me with any additional questions at: kaurshalpreet@gmail.com  
  
 ---

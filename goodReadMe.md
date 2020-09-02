@@ -1,9 +1,8 @@
 
+
    # Weather Dashboard
----
-
-  ![Badge](https://img.shields.io/badge/license-Apache-BrightGreen)
-
+   ![Badge](https://img.shields.io/badge/license-Apache-BrightGreen)
+  
   ## Description
   This project is a weather dashboard application that will display the temperature, wind speed, humidity and UV Index of any city that you will enter in the search box. This app will run in the browser and feature dynamically updated HTML and CSS powered by a JavaScript code. The application will also display the weather forecast for next 5 days. The application will also save the search history and you can simply click on the last searched city to check it's current weather. This was something very new and a toughest one for me and I have put so much effort in learning, understanding and executing the concepts of javascript, API and API Keys. I have used the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities.
 
@@ -11,14 +10,14 @@
 
  ![Homework Repository Screenshot](./assets/repo.png)
 
-  [The Link to My Github Repository](https://github.com/kaurshalpreet/homework6-Weather-Dashboard))
+  [The Link to My Github Repository](https://github.com/kaurshalpreet/homework6-Weather-Dashboard)
 ---
 
   ## Table of Contents
-  1. Installation
-  1. Usage
-  1. Credits
-  1. License
+  1. [Installation](#Installation)
+  1. [Usage](#Installation)
+  1. [Credits](#Credits)
+  1. [License](#License)
 ---
 
   ## Installation
@@ -81,8 +80,7 @@ When you open or reload the weather dashboard, then you are presented with the l
 ---
 
   ## Collaborators
-  Please connect with me via Github
-
+  
   #### You can reach me via my Github account at [Github](https://github.com/kaurshalpreet)
   
 ---
@@ -90,6 +88,12 @@ When you open or reload the weather dashboard, then you are presented with the l
   ## Test
   There are no specific tests for this application. Please test as per your needs and provide feedback
 
+
+---
+
+  ## Questions
+  #### You can reach me via my [Github](https://github.com/kaurshalpreet) account. 
+  #### Email me with any additional questions at: kaurshalpreet@gmail.com
 
 ---
 
