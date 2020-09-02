@@ -5,11 +5,6 @@ inquirer
   .prompt([
     {
       type: "input",
-      message: "What is your Github link?",
-      name: "github"
-    },
-    {
-      type: "input",
       message: "What is your Project Name/Title?",
       name: "title"
     },
@@ -58,6 +53,16 @@ inquirer
       message: "Go the extra mile and write tests for your application.",
       name: "tests"
     },
+    {
+      type: "input",
+      message: "What is your Github Username?",
+      name: "github"
+    },
+    {
+      type: "input",
+      message: "What is your email address?",
+      name: "email"
+    },
   ])
   .then(function(response) {
 
@@ -88,10 +93,10 @@ inquirer
 ---
 
   ## Table of Contents
-  1. Installation
-  1. Usage
-  1. Credits
-  1. License
+  1. [Installation](Installation)
+  1. [Usage](Usage)
+  1. [Credits](Credits)
+  1. [License](License)
 ---
 
   ## Installation
@@ -113,7 +118,6 @@ inquirer
 
   ## Collaborators
   ${response.contributing}
-  #### You can reach me via my Github account at [Github](${response.github})
   
 ---
 
@@ -122,7 +126,13 @@ inquirer
 
 ---
 
+  ## Questions
+  #### You can reach me via my [Github](https://github.com/${response.github}) account. 
+  #### You can reach me with additional questions at my [email](${response.email}) address.  
  
+---
+
+
 `
 fs.writeFile("goodReadMe.md", finalReadMe, function(err) {
 

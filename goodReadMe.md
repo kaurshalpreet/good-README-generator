@@ -1,5 +1,5 @@
 
-  # Weather Dashboard
+   # Weather Dashboard
 ---
 
   ![Badge](https://img.shields.io/badge/license-Apache-BrightGreen)
@@ -93,4 +93,4 @@ When you open or reload the weather dashboard, then you are presented with the l
 
 ---
 
- 
+
